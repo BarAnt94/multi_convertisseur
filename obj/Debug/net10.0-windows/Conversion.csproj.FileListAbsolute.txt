@@ -1,0 +1,16 @@
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\bin\Debug\net10.0-windows\Conversion.exe
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\bin\Debug\net10.0-windows\Conversion.deps.json
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\bin\Debug\net10.0-windows\Conversion.runtimeconfig.json
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\bin\Debug\net10.0-windows\Conversion.dll
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\bin\Debug\net10.0-windows\Conversion.pdb
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.Form1.resources
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.csproj.GenerateResource.cache
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.dll
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\refint\Conversion.dll
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.pdb
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\Conversion.genruntimeconfig.cache
+C:\Users\Antoine\source\repos\INSTA-Exercice\Conversion\obj\Debug\net10.0-windows\ref\Conversion.dll
